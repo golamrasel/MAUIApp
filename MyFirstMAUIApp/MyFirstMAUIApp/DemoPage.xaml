@@ -5,7 +5,7 @@
              Title="DemoPage" BackgroundColor="LightGray">
     <VerticalStackLayout>
         <Label 
-            Text="Welcome to demo page!"
+            Text="Welcome to Maui Demo page!"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
         <Entry TextColor="Black"></Entry>
